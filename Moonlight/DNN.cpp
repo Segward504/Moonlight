@@ -8,3 +8,19 @@
 DNN::DNN() {
     
 }
+
+void DNN::SetInputArray() {
+    
+}
+
+void DNN::ForewardFeed() {
+    
+}
+
+void DNN::Generate() {
+    
+}
+
+void DNN::Inherit(DNN a, DNN b) {
+    
+}
